@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-26T02:46:01.897039+00:00",
+  "run_id": "32547133788",
+  "run_url": "https://github.com/ndrewpj/lemonade/actions/runs/32547133788",
+  "repo": "ndrewpj/lemonade",
+  "repo_url": "https://github.com/ndrewpj/lemonade",
+  "actions_url": "https://github.com/ndrewpj/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "72d3bf879d4470cab8f86b5f09fc8383d38834aa",
+  "lemonade_version": null,
+  "by_model_scenario": {},
+  "history": {}
+}
